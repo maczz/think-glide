@@ -1,18 +1,18 @@
 {
-  "name": "zzstudio/think-glide",
+  "name": "maczz/think-glide-8",
   "description": "ThinkPHP6 adapter for using Glide image manipulation library",
   "type": "library",
-  "keywords": ["thinkphp", "glide", "think-glide"],
+  "keywords": ["thinkphp", "glide", "think-glide", "thinkphp8"],
   "license": "MIT",
   "authors": [
     {
-      "name": "byron sampson",
+      "name": "fork from byron sampson",
       "email": "xiaobo.sun@qq.com"
     }
   ],
   "require": {
     "php": ">=7.1.0",
-    "topthink/framework": "^6.0",
+    "topthink/framework": "^6.0|^8.0",
     "league/glide": "^1.3",
     "symfony/options-resolver": "^2.0|^3.0|^4.0"
   },
