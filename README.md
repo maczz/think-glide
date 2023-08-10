@@ -9,7 +9,7 @@
 执行下面命令安装:
 
 ```bash
-$ composer require zzstudio/think-glide
+$ composer require maczz/think-glide-8
 ```
 
 ## Usage
