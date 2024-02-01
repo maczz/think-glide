@@ -13,7 +13,7 @@
   "require": {
     "php": ">=8.0.0",
     "topthink/framework": "^8.0",
-    "league/glide": "^1.3",
+    "league/glide": "^2.3",
     "symfony/options-resolver": "^2.0|^3.0|^4.0"
   },
   "autoload": {
